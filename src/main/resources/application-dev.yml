@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: file://media/storage/work/apps/tekloka/ws1/tlorg-non-prod-properties
