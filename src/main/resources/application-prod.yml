@@ -3,4 +3,4 @@ spring:
     config:
       server:
         git:
-          uri: to-be-updated
+          uri: file://home/ubuntu/tekloka/micro-services/code/tlorg-prod-properties
