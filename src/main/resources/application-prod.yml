@@ -7,3 +7,4 @@ spring:
           default-label: ENC(GX3NqRg4Q18p0asL42cPBA==)
           username: ENC(RIVC1/1646VDJSI3JaafB/J3emc/3+io)
           password: ENC(oIOTq9cWfXoEfoqwpvgeBIDkFYpLMmRCSDImaVwe7APowrL7hwWeNw==)
+          basedir: /home/ubuntu/tekloka/micro-services/code
