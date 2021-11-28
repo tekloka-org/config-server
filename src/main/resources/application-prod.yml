@@ -3,4 +3,7 @@ spring:
     config:
       server:
         git:
-          uri: file://home/ubuntu/tekloka/micro-services/code/tlorg-prod-properties
+          uri: ENC(sVJUMgqCYCH7k21noZB2IYsV5Rk6vZceKHDWNW+brCabD6FYMXShNC6WRK768mRLbK9hkELkSZqWYYU9JWBPIxj/LrRbFZus)
+          default-label: ENC(GX3NqRg4Q18p0asL42cPBA==)
+          username: ENC(RIVC1/1646VDJSI3JaafB/J3emc/3+io)
+          password: ENC(oIOTq9cWfXoEfoqwpvgeBIDkFYpLMmRCSDImaVwe7APowrL7hwWeNw==)
